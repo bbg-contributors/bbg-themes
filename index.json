@@ -1,0 +1,16 @@
+{
+  "theme_list": [
+    {
+      "name": "示例主题",
+      "intro": "这是一个示例主题",
+      "download_url": "https://github.com/bbg-contributors/default_theme_src/archive/refs/heads/main.zip",
+      "author": "BBG Contributors",
+      "author_url": "https://github.com/bbg-contributors",
+      "license": "unlicensed",
+      "last_tested_on_bbg_version": 20220718,
+      "compatible_with_newer_bbg_version": true,
+      "compatible_with_older_bbg_version": false,
+      "is_example_theme": true
+    }
+  ]
+}
