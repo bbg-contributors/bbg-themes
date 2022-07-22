@@ -3,7 +3,7 @@
     {
       "name": "示例主题",
       "intro": "这是一个示例主题",
-      "download_url": "https://github.com/bbg-contributors/default_theme_src/archive/refs/heads/main.zip",
+      "download_url": "https://github.com/bbg-contributors/default_theme_src/releases/latest/download/default_theme_src.zip",
       "author": "BBG Contributors",
       "author_url": "https://github.com/bbg-contributors",
       "license": "unlicensed",
