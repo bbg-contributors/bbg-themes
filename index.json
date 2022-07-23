@@ -7,7 +7,7 @@
       "author": "BBG Contributors",
       "author_url": "https://github.com/bbg-contributors",
       "license": "unlicensed",
-      "last_tested_on_bbg_version": 20220718,
+      "last_tested_on_bbg_version": 20220723,
       "compatible_with_newer_bbg_version": true,
       "compatible_with_older_bbg_version": false,
       "is_example_theme": true
@@ -15,11 +15,11 @@
     {
       "name": "官方主题v2",
       "intro": "示例主题的bbgthemev2版本",
-      "download_url": "https://github.com/bbg-contributors/offical-theme-v2/archive/refs/heads/master.zip",
+      "download_url": "https://github.com/bbg-contributors/offical-theme-v2/releases/latest/download/offical-theme-v2.bbgtheme2",
       "author": "BBG Contributors",
       "author_url": "https://github.com/bbg-contributors",
       "license": "unlicensed",
-      "last_tested_on_bbg_version": 20220718,
+      "last_tested_on_bbg_version": 20220723,
       "compatible_with_newer_bbg_version": true,
       "compatible_with_older_bbg_version": false,
       "is_example_theme": true
