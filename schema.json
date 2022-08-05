@@ -36,12 +36,12 @@
           },
           "author": {
             "type": "string",
-            "title": "Your name",
+            "title": "Your Name",
             "description": "The author of the theme, only accept one"
           },
           "author_url": {
             "type": "string",
-            "title": "Your contact link",
+            "title": "Your Link",
             "description": "Your website or social media account link"
           },
           "license": {
@@ -55,16 +55,18 @@
           },
           "compatible_with_newer_bbg_version": {
             "type": "boolean",
-            "title": "Compatiblity of new BBG versions",
+            "title": "Compatiblity of New BBG Versions",
             "description": "Whether compatible with new version"
           },
           "compatible_with_older_bbg_version": {
             "type": "boolean",
-            "title": "Compatiblity of old BBG versions",
+            "title": "Compatiblity of Old BBG Versions",
             "description": "Whether compatible with old version"
           },
           "is_example_theme": {
-            "type": "boolean"
+            "type": "boolean",
+            "title": "Example Theme Mark",
+            "description": "If you set true, your theme may not be shown in the final theme store because it means you just test."
           }
         }
       }
