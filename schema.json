@@ -1,0 +1,56 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema",
+  "type": "object",
+  "properties": {
+    "theme_list": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "name",
+          "intro",
+          "download_url",
+          "author",
+          "author_url",
+          "license",
+          "last_tested_on_bbg_version",
+          "compatible_with_newer_bbg_version",
+          "compatible_with_older_bbg_version",
+          "is_example_theme"
+        ],
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "intro": {
+            "type": "string"
+          },
+          "download_url": {
+            "type": "string"
+          },
+          "author": {
+            "type": "string"
+          },
+          "author_url": {
+            "type": "string"
+          },
+          "license": {
+            "type": "string"
+          },
+          "last_tested_on_bbg_version": {
+            "type": "number"
+          },
+          "compatible_with_newer_bbg_version": {
+            "type": "boolean"
+          },
+          "compatible_with_older_bbg_version": {
+            "type": "boolean"
+          },
+          "is_example_theme": {
+            "type": "boolean"
+          }
+        }
+      }
+    }
+  }
+}

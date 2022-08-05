@@ -1,4 +1,5 @@
 {
+  "$schema": "./schema.json",
   "theme_list": [
     {
       "name": "示例主题",
@@ -7,7 +8,7 @@
       "author": "BBG Contributors",
       "author_url": "https://github.com/bbg-contributors",
       "license": "unlicensed",
-      "last_tested_on_bbg_version": 20220723,
+      "last_tested_on_bbg_version": 20220805,
       "compatible_with_newer_bbg_version": true,
       "compatible_with_older_bbg_version": false,
       "is_example_theme": true
