@@ -20,31 +20,48 @@
         ],
         "properties": {
           "name": {
-            "type": "string"
+            "type": "string",
+            "title": "Theme Name",
+            "description": "The name of the theme"
           },
           "intro": {
-            "type": "string"
+            "type": "string",
+            "title": "Theme Introduction",
+            "description": "The introduction to the theme"
           },
           "download_url": {
-            "type": "string"
+            "type": "string",
+            "title": "Theme Download URL",
+            "description": "The download URL for the theme"
           },
           "author": {
-            "type": "string"
+            "type": "string",
+            "title": "Your name",
+            "description": "The author of the theme, only accept one"
           },
           "author_url": {
-            "type": "string"
+            "type": "string",
+            "title": "Your contact link",
+            "description": "Your website or social media account link"
           },
           "license": {
-            "type": "string"
+            "type": "string",
+            "title": "License",
+            "description": "The license of the theme"
           },
           "last_tested_on_bbg_version": {
-            "type": "number"
+            "type": "number",
+            "description": "The version you last tested your theme"
           },
           "compatible_with_newer_bbg_version": {
-            "type": "boolean"
+            "type": "boolean",
+            "title": "Compatiblity of new BBG versions",
+            "description": "Whether compatible with new version"
           },
           "compatible_with_older_bbg_version": {
-            "type": "boolean"
+            "type": "boolean",
+            "title": "Compatiblity of old BBG versions",
+            "description": "Whether compatible with old version"
           },
           "is_example_theme": {
             "type": "boolean"
