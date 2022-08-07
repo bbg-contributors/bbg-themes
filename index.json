@@ -4,13 +4,13 @@
     {
       "name": "默认主题 (Patched Version)",
       "intro": "带有 https://github.com/xCss/Valine/pull/398 修复补丁的默认主题",
-      "download_url": "https://github.com/bbg-contributors/default_theme_src_patched/releases/latest/download/default_theme_src_patched.zip",
+      "download_url": "https://github.com/bbg-contributors/default_theme_src_patched/releases/download/20220808/default_theme_src_patched.bbgtheme2",
       "author": "BBG Contributors",
       "author_url": "https://github.com/bbg-contributors",
       "license": "unlicensed",
       "last_tested_on_bbg_version": 20220808,
-      "compatible_with_newer_bbg_version": false,
-      "compatible_with_older_bbg_version": true,
+      "compatible_with_newer_bbg_version": true,
+      "compatible_with_older_bbg_version": false,
       "is_example_theme": false
     },
     {
