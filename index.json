@@ -10,7 +10,7 @@
       "license": "unlicensed",
       "last_tested_on_bbg_version": 20220808,
       "compatible_with_newer_bbg_version": false,
-      "compatible_with_older_bbg_version": false,
+      "compatible_with_older_bbg_version": true,
       "is_example_theme": false
     },
     {
