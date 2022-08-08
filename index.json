@@ -20,7 +20,7 @@
       "author": "BBG Contributors",
       "author_url": "https://github.com/bbg-contributors",
       "license": "unlicensed",
-      "last_tested_on_bbg_version": 20220805,
+      "last_tested_on_bbg_version": 20220809,
       "compatible_with_newer_bbg_version": true,
       "compatible_with_older_bbg_version": false,
       "is_example_theme": false
