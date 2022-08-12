@@ -2,6 +2,18 @@
   "$schema": "./schema.json",
   "theme_list": [
     {
+      "name": "NexT",
+      "intro": "An elegant theme for BBG, which has an approached apperance with hexo-theme-next",
+      "download_url": "https://github.com/baiyang-lzy/bbg-theme-next/releases/download/latest/bbg_theme_next.bbgtheme2",
+      "author": "baiyang-lzy",
+      "author_url": "https://github.com/baiyang-lzy",
+      "license": "unlicensed",
+      "last_tested_on_bbg_version": 20220809,
+      "compatible_with_newer_bbg_version": false,
+      "compatible_with_older_bbg_version": false,
+      "is_example_theme": false
+    },
+    {
       "name": "默认主题 (Patched Version)",
       "intro": "带有 https://github.com/xCss/Valine/pull/398 修复补丁的默认主题",
       "download_url": "https://github.com/bbg-contributors/default_theme_src_patched/releases/latest/download/default_theme_src_patched.bbgtheme2",
