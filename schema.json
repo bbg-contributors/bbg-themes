@@ -6,6 +6,8 @@
       "type": "array",
       "items": {
         "type": "object",
+        "title": "The theme list",
+        "description": "The theme list",
         "required": [
           "name",
           "intro",
@@ -17,6 +19,24 @@
           "compatible_with_newer_bbg_version",
           "compatible_with_older_bbg_version",
           "is_example_theme"
+        ],
+        "defaultSnippets": [
+          {
+            "label": "A new theme",
+            "description": "The information about the new theme",
+            "body": {
+              "name": "$1",
+              "intro": "$2",
+              "download_url": "$3",
+              "author": "$4",
+              "author_url": "$5",
+              "license": "$6",
+              "last_tested_on_bbg_version": "$7",
+              "compatible_with_newer_bbg_version": "$8",
+              "compatible_with_older_bbg_version": "$9",
+              "is_example_theme": "$10"
+            }
+          }
         ],
         "properties": {
           "name": {
