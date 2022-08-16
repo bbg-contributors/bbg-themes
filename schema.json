@@ -20,24 +20,18 @@
           "compatible_with_older_bbg_version",
           "is_example_theme"
         ],
-        "defaultSnippets": [
-          {
-            "label": "A new theme",
-            "description": "The information about the new theme",
-            "body": {
-              "name": "$1",
-              "intro": "$2",
-              "download_url": "$3",
-              "author": "$4",
-              "author_url": "$5",
-              "license": "$6",
-              "last_tested_on_bbg_version": "$7",
-              "compatible_with_newer_bbg_version": "$8",
-              "compatible_with_older_bbg_version": "$9",
-              "is_example_theme": "$10"
-            }
-          }
-        ],
+        "default": {
+          "name": "",
+          "intro": "",
+          "download_url": "",
+          "author": "",
+          "author_url": "",
+          "license": "",
+          "last_tested_on_bbg_version": 0,
+          "compatible_with_newer_bbg_version": true,
+          "compatible_with_older_bbg_version": true,
+          "is_example_theme": true
+        },
         "properties": {
           "name": {
             "type": "string",

@@ -27,6 +27,6 @@
 
 更详细的信息请查阅schema.json。
 
-现在，使用vscode编辑器编辑index.json时可以输入`""`并轻触回车键来快速生成theme_list模板了。按下`Tab`键可以从一个需要编写的键值跳到下一个需要编写的键值。需要注意的是，生成的模板中有关数字和布尔值的键值有一些小bug，需要手动修复。
+现在，使用支持json-schema的编辑器编辑index.json时可以输入`""`并轻触回车键快速生成主题内容模板了。当前使用default键值取代只有vscode支持的defaultSnippets以保证兼容性（但是不得不取消了很多提示）。
 
 你可以通过提交 Pull Request 来将你的主题信息提交到本仓库。
