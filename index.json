@@ -11,7 +11,8 @@
       "last_tested_on_bbg_version": 20220809,
       "compatible_with_newer_bbg_version": false,
       "compatible_with_older_bbg_version": false,
-      "is_example_theme": false
+      "is_example_theme": false,
+      "last_update_date":20220817
     },
     {
       "name": "默认主题 (Patched Version)",
@@ -23,7 +24,8 @@
       "last_tested_on_bbg_version": 20220809,
       "compatible_with_newer_bbg_version": false,
       "compatible_with_older_bbg_version": false,
-      "is_example_theme": false
+      "is_example_theme": false,
+      "last_update_date":20220817
     },
     {
       "name": "官方主题v2",
@@ -35,7 +37,8 @@
       "last_tested_on_bbg_version": 20220809,
       "compatible_with_newer_bbg_version": true,
       "compatible_with_older_bbg_version": false,
-      "is_example_theme": false
+      "is_example_theme": false,
+      "last_update_date":20220817
     }
   ]
 }
