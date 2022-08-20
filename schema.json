@@ -18,7 +18,8 @@
           "last_tested_on_bbg_version",
           "compatible_with_newer_bbg_version",
           "compatible_with_older_bbg_version",
-          "is_example_theme"
+          "is_example_theme",
+          "last_update_date"
         ],
         "default": {
           "name": "",
@@ -30,7 +31,8 @@
           "last_tested_on_bbg_version": 0,
           "compatible_with_newer_bbg_version": true,
           "compatible_with_older_bbg_version": true,
-          "is_example_theme": true
+          "is_example_theme": true,
+          "last_update_date": 0
         },
         "properties": {
           "name": {
@@ -81,6 +83,11 @@
             "type": "boolean",
             "title": "Example Theme Mark",
             "description": "If you set true, your theme may not be shown in the final theme store because it means you just test."
+          },
+          "last_update_date": {
+            "type": "number",
+            "title": "Last Update Date",
+            "description": "The theme's last update date"
           }
         }
       }
