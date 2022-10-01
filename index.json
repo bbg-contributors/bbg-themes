@@ -8,7 +8,7 @@
       "author": "baiyang-lzy",
       "author_url": "https://github.com/baiyang-lzy",
       "license": "unlicensed",
-      "last_tested_on_bbg_version": 20220809,
+      "last_tested_on_bbg_version": 20221001,
       "compatible_with_newer_bbg_version": false,
       "compatible_with_older_bbg_version": false,
       "is_example_theme": false,
@@ -21,7 +21,7 @@
       "author": "BBG Contributors",
       "author_url": "https://github.com/bbg-contributors",
       "license": "unlicensed",
-      "last_tested_on_bbg_version": 20220809,
+      "last_tested_on_bbg_version": 20221001,
       "compatible_with_newer_bbg_version": false,
       "compatible_with_older_bbg_version": false,
       "is_example_theme": false,
@@ -30,15 +30,15 @@
     {
       "name": "官方主题v2",
       "intro": "官方主题的bbgthemev2版本",
-      "download_url": "https://github.com/bbg-contributors/offical-theme-v2/releases/latest/download/offical-theme-v2.bbgtheme2",
+      "download_url": "https://github.com/bbg-contributors/official-theme-v2/releases/latest/download/official-theme-v2.bbgtheme2",
       "author": "BBG Contributors",
       "author_url": "https://github.com/bbg-contributors",
       "license": "unlicensed",
-      "last_tested_on_bbg_version": 20220809,
+      "last_tested_on_bbg_version": 20221001,
       "compatible_with_newer_bbg_version": true,
       "compatible_with_older_bbg_version": false,
       "is_example_theme": false,
-      "last_update_date":20220817
+      "last_update_date":20221002
     }
   ]
 }
