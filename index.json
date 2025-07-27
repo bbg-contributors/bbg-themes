@@ -35,7 +35,7 @@
       "author_url": "https://github.com/bbg-contributors",
       "license": "unlicensed",
       "last_tested_on_bbg_version": 20221031,
-      "compatible_with_newer_bbg_version": true,
+      "compatible_with_newer_bbg_version": false,
       "compatible_with_older_bbg_version": false,
       "is_example_theme": false,
       "last_update_date":20221130
